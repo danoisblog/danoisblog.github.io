@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jose'Danois
+name: Jose Danois
 
 # Short bio or description (displayed in the header)
 description: Notas de Fe y Gracia
@@ -22,8 +22,8 @@ avatar: https://i.postimg.cc/JnWG1jCf/IMG-2996-modified.png
 navigation:
   - name: Blog
     url: /
-  - name: About
-    url: /about
+  - name: Sobre mí
+    url: /sobre-mí
   - name: Archive
     url: /archive
   - name: Tags
