@@ -4,9 +4,11 @@ title: Jesús como artista
 image: /images/vangogh.jpg
 tags: [extracto]
 ---
-![Vangogh](/images/vangogh.jpg)
+
 
 El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante, se expresa en esta carta acerca de Jesús. 
+
+![Vangogh](/images/vangogh.jpg)
 
 El escribe:
 
@@ -14,7 +16,7 @@ Solo entre todos los filósofos y sabios, Jesús afirmó como base de su enseña
 
 Este gran artista (Jesús), pues, no escribió tampoco un solo libro. Sin duda le repugnaría la literatura cristiana en general. Porque ¡cuán raros en la literatura cristiana son los productos que puedan compararse favorablemente con el Evangelio de Lucas o las Cartas de Pablo, obras tan sencillas en su forma austera y marcial! Sin embargo, aunque el gran artista Jesús rechazaba poner sus ideas y sus sentimientos en libros, ciertamente no despreciaba la palabra hablada, especialmente la parábola. (¡Qué fuerza hay en los cuentos del sembrador, de la cosecha, de la higuera!) Y cuál de nosotros osaría decir que él mentía cuando profetizó con desdén la destrucción de lo que Roma había construido, aseverando a la vez: aunque pasarán el cielo y la tierra, mis palabras no pasarán.
 
->Estas palabras – que por ser él tan grande no consideró siquiera necesario poner por escrito – marcan la cumbre más alta jamás alcanzada por el arte, y esta elevación pura les da poder creador, supremo poder creador.
+Estas palabras – que por ser él tan grande no consideró siquiera necesario poner por escrito – marcan la cumbre más alta jamás alcanzada por el arte, y esta elevación pura les da poder creador, supremo poder creador.
 
 Tales consideraciones nos llevan muy lejos, de hecho, nos llevan más allá del arte. Nos permiten vislumbrar el arte de moldear la vida y ser inmortales mientras todavía vivimos.
 
