@@ -36,21 +36,21 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+#  behance: # https://www.behance.net/<username>
   dribbble:
   email:
-  facebook:
+  facebook: leondejudahumacao
   flickr:
-  github: AWEEKJ/kiko-now
+#  github: AWEEKJ/kiko-now
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss:  José Danois
+#  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
-  youtube: # channel/<your_long_string> or user/<user-name>
+#  twitter: jekyllrb
+  youtube: /channel/UCITESAEW2qgUjNoKd_S2dJQ
 
 # Text under the icons in footer
 footer-text: © 2017 Kiko Now
