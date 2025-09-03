@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estad quietos.
+title: Estad quietos
 image: 
 tags: [video]
 author: José Danois
