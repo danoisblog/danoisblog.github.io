@@ -28,8 +28,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-#  - name: Theme
- #   url: https://github.com/AWEEKJ/kiko-now
+  - name: Seguir
+    url: https://www.feedio.co/@danoisblog
 
 # Pagination
 paginate: 5
