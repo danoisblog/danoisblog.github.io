@@ -2,7 +2,7 @@
 layout: post
 title: Adoración más allá de nuestros labios
 image: /images/Adoracion.png
-tags: [reflexión bíblica]
+tags: [reflexión bíblica, adoración]
 ---
 ![Adoración](/images/Adoracion.png)
 
