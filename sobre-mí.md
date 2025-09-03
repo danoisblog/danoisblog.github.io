@@ -7,9 +7,9 @@ permalink: /sobre-mí/
 ---
 ![profile-pic](/images/IMG-5001-modified.png)
 
-_José Danois_
+José Danois
 
->*Creciendo en la gracia y el conocimiento de Dios...*
+_Creciendo en la gracia y el conocimiento de Dios..._
 
 Hola, bienvenidos a mi página personal. Un espacio donde comparto notas acerca de la Fe, la Gracia, el Crecimiento Espiritual y el Diario Vivir. Un repositorio para mis pensamientos y las cosas que me inspiran e interesan.
 
