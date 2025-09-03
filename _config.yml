@@ -24,8 +24,8 @@ navigation:
     url: /
   - name: Sobre mí
     url: /sobre-mí
-  - name: Archive
-    url: /archive
+  - name: Archivo
+    url: /archivo
   - name: Tags
     url: /tags
   - name: Theme
