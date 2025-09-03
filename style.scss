@@ -26,7 +26,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 720px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -180,7 +180,7 @@ dt {
   margin-bottom: $li-bottom-space;
 
   @include mobile {
-    width: 120px;
+    width: 100px;
   }
 }
 
