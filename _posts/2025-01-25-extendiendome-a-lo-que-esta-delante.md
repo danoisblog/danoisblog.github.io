@@ -38,14 +38,14 @@ Pablo concluye este pasaje exhortando a los Filipenses, y a nosotros por extensi
 
 **Para crecer en madurez, debemos estar dispuestos a:**
 
-●  Examinar nuestros corazones con honestidad, reconociendo nuestras deficiencias y nuestra necesidad de la gracia de Dios.
+- Examinar nuestros corazones con honestidad, reconociendo nuestras deficiencias y nuestra necesidad de la gracia de Dios.
 
-●  Arrepentirnos de nuestros pecados y buscar el perdón de Dios, dejando atrás las cosas que nos impiden avanzar.
+- Arrepentirnos de nuestros pecados y buscar el perdón de Dios, dejando atrás las cosas que nos impiden avanzar.
 
-●  Llenar nuestras mentes con la Palabra de Dios, meditando en sus enseñanzas y permitiendo que transformen nuestros pensamientos y acciones.
+- Llenar nuestras mentes con la Palabra de Dios, meditando en sus enseñanzas y permitiendo que transformen nuestros pensamientos y acciones.
 
-●  Buscar la guía del Espíritu Santo, quien nos capacita para vivir una vida agradable a Dios.
+- Buscar la guía del Espíritu Santo, quien nos capacita para vivir una vida agradable a Dios.
 
-●  Rodearnos de otros creyentes, quienes pueden animarnos y fortalecernos en nuestra fe.
+- Rodearnos de otros creyentes, quienes pueden animarnos y fortalecernos en nuestra fe.
 
 Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra madurez espiritual. Siempre hay más que aprender, más que crecer y más que experimentar de la gracia de Dios. Que podamos abrazar la actitud de Pablo, olvidando lo que queda atrás y extendiéndonos a lo que está delante, hacia la meta del supremo llamamiento de Dios en Cristo Jesús.
