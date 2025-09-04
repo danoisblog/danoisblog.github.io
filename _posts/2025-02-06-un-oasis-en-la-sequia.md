@@ -3,7 +3,7 @@ layout: post
 title: Un Oasis en la Sequía
 image: /images/recibiendoanimo.jpg
 author: José Danois
-categories: 
+tags: [reflexión]
 published: true
 ---
 ![Recibiendo ánimo ](/images/recibiendoanimo.jpg)
