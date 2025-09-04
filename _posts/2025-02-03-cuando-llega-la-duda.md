@@ -5,7 +5,6 @@ image: /images/duda.jpg
 tags: [reflexión bíblica, video]
 ---
 ![Duda](/images/duda.jpg)
-
 >***Juan el Bautista, quien estaba en prisión, oyó acerca de todas las cosas que hacía el Mesías. Entonces envió a sus discípulos para que le preguntaran a Jesús: ¿Eres tú el Mesías a quien hemos esperado o debemos seguir buscando a otro? Mateo 11:2–3 NTV***
 
 Todos, en algún momento, hemos experimentado la duda, especialmente cuando se trata de nuestra fe. Incluso Juan el Bautista, un hombre elegido por Dios y lleno del Espíritu Santo desde el vientre de su madre, tuvo momentos de incertidumbre. Las circunstancias difíciles pueden nublar nuestro juicio y hacernos cuestionar nuestras creencias.
