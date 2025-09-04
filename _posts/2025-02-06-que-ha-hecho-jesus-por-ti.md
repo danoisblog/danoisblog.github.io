@@ -3,7 +3,7 @@ layout: post
 title: Que ha hecho Jesús por ti
 image: /images/honmbreantelacruz.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![La cruz](/images/honmbreantelacruz.jpg)
