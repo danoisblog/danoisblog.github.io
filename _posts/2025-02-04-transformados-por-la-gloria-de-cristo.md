@@ -3,7 +3,7 @@ layout: post
 title: Transformados por la Gloria de Cristo
 image: /images/gloria.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Gloria](/images/gloria.jpg)
