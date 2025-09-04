@@ -5,7 +5,6 @@ image: /images/pactoinquebrantable.jpg
 tags: [reflexión bíblica, pacto]
 ---
 ![Pacto](/images/pactoinquebrantable.jpg)
-
 > ***Descubriendo la Profundidad de la Amistad con Jesús***
 
 **Ya no los llamo siervos, porque el siervo no está al tanto de lo que hace su amo; los he llamado amigos, porque todo lo que a mi Padre le oí decir se lo he dado a conocer a ustedes. Juan 15:15**
