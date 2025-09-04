@@ -1,12 +1,12 @@
 ---
 layout: post
 title: El Carácter Reflejado en la Conversación
-image: /images/Discutir.jpg
+image: /images/discutir.jpg
 author: José Danois
-categories: 
+tags: [crecimiento]
 published: true
 ---
-![Discusión](/images/Discutir.jpg)
+![Discusión](/images/discutir.jpg)
 >***"Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse." Santiago 1:19***
 
 ### ¿Qué dice tu forma de hablar? 
