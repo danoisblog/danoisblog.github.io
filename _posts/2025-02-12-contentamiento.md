@@ -3,7 +3,7 @@ layout: post
 title: Esa extraña virtud llamada contentamiento
 image: /images/contentamiento.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Hombre arrodillado](/images/contentamiento.jpg)
