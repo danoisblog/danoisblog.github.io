@@ -3,7 +3,7 @@ layout: post
 title: No dejes que la tecnología o las redes sociales te consuman o te distraigan
 image: /images/tecnología.png
 author: José Danois
-categories: 
+tags: [reflexión] 
 published: true
 ---
 ![Tecnología](/images/tecnología.png)
