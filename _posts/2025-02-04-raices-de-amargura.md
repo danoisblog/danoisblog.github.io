@@ -3,7 +3,7 @@ layout: post
 title: Raíces de amargura
 image: /images/corazonraices.png
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Raíces de amargura](/images/corazonraices.png)
