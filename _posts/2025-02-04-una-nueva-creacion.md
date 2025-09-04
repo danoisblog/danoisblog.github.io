@@ -3,7 +3,7 @@ layout: post
 title: Una Nueva Creación
 image: /images/nuevacreacion.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Mariposa](/images/nuevacreacion.jpg)
