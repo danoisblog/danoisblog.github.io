@@ -3,7 +3,7 @@ layout: post
 title: Vuelve al Primer Amor
 image: /images/amorfrio.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Amor frío](/images/amorfrio.jpg)
