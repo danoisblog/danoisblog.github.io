@@ -3,7 +3,7 @@ layout: post
 title: Paciencia que trabaja
 image: /images/Perseverancia.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Paciencia](/images/Perseverancia.jpg)
