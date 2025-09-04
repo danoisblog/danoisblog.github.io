@@ -3,7 +3,7 @@ layout: post
 title: Intimidades Divinas
 image: /images/hombreenelsendero.jpg
 author: José Danois
-categories: 
+tags: [extracto] 
 published: true
 ---
 ![Hombre caminando](/images/hombreenelsendero.jpg)
