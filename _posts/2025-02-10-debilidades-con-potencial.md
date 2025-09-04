@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Debilidades con potencial
-image: /images/Mariposa.png
+image: /images/Mariposa.jpg
 author: José Danois
-categories: 
+tags: [extracto] 
 published: true
 ---
-![Mariposa](/images/Mariposa.png)
-
+![Mariposa](/images/Mariposa.jpg)
 Existe una tendencia universal en el ser humano a esconder sus debilidades. Estamos tristes, pero ponemos cara de alegría. Deseamos llorar, pero contenemos nuestras lágrimas. Nos sentimos abrumados, pero aparentamos estar en control. Luchamos con la depresión, pero buscamos convencer a los demás de nuestro buen ánimo.
 
 Todo esto no hace más que revelar con gran claridad la inmensa importancia que le damos, como seres humanos, a la imagen que otros tienen de nosotros. Deseamos que nos vean como triunfadores, como personas que caminan con paso firme hacia objetivos claramente definidos en sus vidas. Por esta razón nos resistimos, a toda costa, a revelar esas cosas que muestran nuestra verdadera condición de seres frágiles y débiles.
