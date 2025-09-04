@@ -3,7 +3,7 @@ layout: post
 title: No se turbe tu corazón
 image: /images/hielo.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Hielo](/images/hielo.jpg)
