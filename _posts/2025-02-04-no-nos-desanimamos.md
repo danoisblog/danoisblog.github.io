@@ -3,7 +3,7 @@ layout: post
 title: No nos desanimamos
 image: /images/desanimo.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Desánimo ](/images/desanimo.jpg)
