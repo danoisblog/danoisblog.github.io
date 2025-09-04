@@ -3,7 +3,7 @@ layout: post
 title: Verdadera Prosperidad
 image: /images/prosperidad.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Trigo](/images/prosperidad.jpg)
