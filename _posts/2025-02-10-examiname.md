@@ -3,7 +3,7 @@ layout: post
 title: Examíname
 image: /images/Examiname.png
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 ![Examíname](/images/Examiname.png)
