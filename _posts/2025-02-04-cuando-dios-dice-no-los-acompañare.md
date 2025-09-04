@@ -3,7 +3,7 @@ layout: post
 title: Cuando Dios dice no los acompañaré
 image: /images/nolosacompañare.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Mariposa](/images/nolosacompañare.jpg)
