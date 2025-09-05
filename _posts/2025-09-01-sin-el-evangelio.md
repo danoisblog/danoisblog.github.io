@@ -3,7 +3,7 @@ layout: post
 title: Sin el Evangelio
 image: /images/jesús.jpg
 author: José Danois
-categories: extracto 
+tags: [extracto] 
 published: true
 ---
 ![Jesús](/images/jesús.jpg)
