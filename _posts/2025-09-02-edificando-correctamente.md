@@ -3,11 +3,10 @@ layout: post
 title: Edificando correctamente
 image: /images/edificando.png
 author: José Danois
-categories: reflexiones
+tags: [reflexión bíblica]
 published: true
 ---
 ![edificando](/images/edificando.png)
-
 > “En él todo el edificio, bien armado, se va levantando para llegar a ser un templo santo en el Señor. En él también ustedes son edificados juntamente para ser morada de Dios por su Espíritu.” Efesios 2:21-22
 
 ## **Una Iglesia que se levanta sobre Cristo**
