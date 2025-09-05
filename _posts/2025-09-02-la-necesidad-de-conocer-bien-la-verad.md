@@ -3,7 +3,7 @@ layout: post
 title: La necesidad de conocer bien la verdad
 image: /images/verdad.png
 author: José Danois
-tags: reflexión bíblica]
+tags: [reflexión bíblica]
 published: true
 ---
 ![verdad](/images/verdad.png)
