@@ -3,11 +3,10 @@ layout: post
 title: Para que las obras de Dios sean manifestadas
 image: /images/obrasdeDios.jpg
 author: José Danois
-categories: reflexiones
+tags: [reflexión bíblica]
 published: true
 ---
 ![Obras de Dios](/images/obrasdeDios.jpg)
-
 > Al pasar Jesús, vio a un hombre ciego de nacimiento. Y le preguntaron sus discípulos, diciendo: Rabí, ¿quién pecó, este o sus padres, para que haya nacido ciego? Respondió Jesús: No es que pecó este, ni sus padres, sino para que las obras de Dios se manifiesten en él. Juan 9:1-3
 
 Con mucha frecuencia adjudicamos una razón negativa a todo lo que nos sucede o pasa a nuestro alrededor. Los teóricos de la conspiración siempre ven en todo acontecimiento negativo una malicia provocada por agendas particulares. El pensamiento tradicional religioso por lo general dirá algo como: esto es un juicio de Dios, esto es producto del pecado.
