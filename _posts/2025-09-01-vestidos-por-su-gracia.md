@@ -3,11 +3,10 @@ layout: post
 title: Vestidos por su gracia
 image: /images/sugracia.jpg
 author: José Danois
-categories: gracia
+tags: [gracia]
 published: true
 ---
 ![Su gracia](/images/sugracia.jpg)
-
 Hace aproximadamente un poco más de dos milenios, una mujer se coloca sobre sus hombros su cántaro para ir a recoger agua. Respira profundamente y sale con precaución de las sombras de su casa hacia la luz brillante de la calle.
 
 Era alrededor del mediodía, y ella había planificado el momento exacto para salir y evitar las miradas escrutadoras y las malas lenguas de sus vecinos que ya habían estado temprano en los alrededores del pozo.
