@@ -3,7 +3,7 @@ layout: post
 title: Cómo seguir el mapa de las Escrituras para que nos lleve a Jesús
 image: /images/bibliaabierta.jpg
 author: José Danois
-categories: biblia
+tags: [biblia]
 published: true
 ---
 ![Biblia](/images/bibliaabierta.jpg)
@@ -76,6 +76,5 @@ Escucha las palabras de Pablo: “Y Él es antes de todas las cosas, y todas las
 
 La teología bíblica nos ayuda a entender cómo el glorioso mapa de las Escrituras señala hacia el futuro y se centra en el resucitado y reinante Rey Jesucristo, y en el pueblo que ha comprado con Su sangre. Queremos que nuestros ojos y nuestro entendimiento se abran tal y como les ocurrió a esos discípulos en el camino a Emaús —Lc 24:31, 45—, y que así podamos reconocer a Jesús en todas las partes de la Biblia y amarle con todo nuestro corazón cuando se nos abran todas las Escrituras (Lc 24:32). Si leemos correctamente el mapa bíblico, este siempre nos guiará a Jesús y nos mostrará nuestra identidad como Su pueblo.
 
-----------
 
 [^1]: Roark, N., & Cline, R. (2019). La teología bíblica: Cómo la iglesia enseña fielmente el evangelio (M. Dever & J. Leeman, Eds.; A. Molero & R. Molero, Trads.; pp. 25-33). Poiema Lectura Redimida.
