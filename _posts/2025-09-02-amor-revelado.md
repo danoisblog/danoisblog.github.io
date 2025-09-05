@@ -3,11 +3,10 @@ layout: post
 title: Amor revelado
 image: /images/amordeDios.png
 author: José Danois
-categories: reflexiones
+tags: [reflexión bíblica]
 published: true
 ---
 ![amor revelado](/images/amordeDios.png)
-
 > Y nosotros hemos llegado a saber y creer que Dios nos ama. Dios es amor. El que permanece en amor, en Dios permanece y Dios en él. 1 Juan 4:16
 
 **Revelación es desvelar, quitar el velo para ver lo que de otra manera no se puede ver. Es revelar para ver algo claramente.**
