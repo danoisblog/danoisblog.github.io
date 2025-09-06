@@ -3,7 +3,7 @@ layout: post
 title: ¿Está alguno afligido?
 image: /images/hombreorando.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica] 
 published: true
 ---
 
