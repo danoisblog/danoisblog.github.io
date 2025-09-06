@@ -3,7 +3,7 @@ layout: post
 title: Lo único que necesitas es una semilla
 image: /images/semillas.jpg
 author: José Danois
-categories: 
+tags: [diario] 
 published: true
 ---
 
