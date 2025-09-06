@@ -3,11 +3,10 @@ layout: post
 title: Gracia para todos
 image: /images/graciaparatodos.jpg
 author: José Danois
-categories: gracia
+tags: [gracia]
 published: true
 ---
 ![Mano](/images/graciaparatodos.jpg)
-
 Si has dedicado algún tiempo a leer la Biblia, te abras encontrado en algún momento con esas “molestas” listas de nombres llamadas genealogías. Por lo general las obviamos porque nos parecen aburridas y sin sentido. Pensamos ¿para qué están puestas en la Biblia, tienen alguna importancia?
 
 La realidad es que si tienen importancia. Pero que tiene que ver eso con nuestro título “Gracia para Todos”, quizás nada o tal vez mucho. Eso lo veremos más adelante, pero primero lo primero.
