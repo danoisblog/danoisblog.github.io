@@ -3,7 +3,7 @@ layout: post
 title: No soy lo que debería ser
 image: /images/JohnNewton.jpg
 author: José Danois
-categories: 
+tags: [extracto]
 published: true
 ---
 ![JohnNewton](/images/JohnNewton.jpg)
