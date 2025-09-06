@@ -3,7 +3,7 @@ layout: post
 title: No nos cansemos de hacer el bien
 image: /images/cosecha.jpg
 author: José Danois
-categories: 
+tags: [diario] 
 published: true
 ---
 
