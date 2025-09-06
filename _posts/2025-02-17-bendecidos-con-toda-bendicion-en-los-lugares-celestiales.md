@@ -3,7 +3,7 @@ layout: post
 title: Hemos sido bendecidos con toda bendición espiritual...
 image: /images/celestiales.jpg
 author: José Danois
-categories: 
+tags: [reflexión bíblica]
 published: true
 ---
 ![Cielos](/images/celestiales.jpg)
