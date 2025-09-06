@@ -3,11 +3,10 @@ layout: post
 title: Comienza a caminar
 image: /images/caminar.jpg
 author: José Danois
-categories: diario
+tags: [diario]
 published: true
 ---
 ![Caminar](/images/caminar.jpg)
-
 Recuerdo que hace unos años, mi hijo me instaba a acompañarlo al gimnasio. Lo pensé mucho antes de decidirme. Anteriormente, había estado en uno y lo había dejado. No obstante, ante la insistencia de mi hijo regresé nuevamente al gimnasio donde estuvimos unos 6 meses, luego el gimnasio cerró. A pesar de eso, el tiempo que estuvimos allí sirvió para crear en nosotros una disciplina y una rutina. Aunque pudimos haber buscado otro gimnasio, optamos por caminar (idea de mi hijo) y hacer ejercicios en el hogar.
 
 Cuando comencé a caminar,
