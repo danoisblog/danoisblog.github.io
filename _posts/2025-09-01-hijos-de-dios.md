@@ -3,11 +3,10 @@ layout: post
 title: Hijos de Dios
 image: /images/hijos.jpg
 author: José Danois
-categories: reflexiones
+tags: [reflexión bíblica]
 published: true
 ---
 ![Hijos de Dios](/images/hijos.jpg)
-
 > Miren cuánto nos ama el Padre, que nos ha concedido ser llamados hijos de Dios. Y lo somos. El mundo no nos conoce, porque no lo conoció a él. Todo aquel que permanece en él, no peca; todo aquel que peca, no lo ha visto, ni lo ha conocido. Todo aquel que ha nacido de Dios no practica el pecado, porque la simiente de Dios permanece en él, y no puede pecar, porque ha nacido de Dios. 1 Juan 3:1,6,9
 
 Una de las cosas que más maravillaba al apóstol Juan era el amor de Dios. Es algo que debe maravillar a cualquiera que lo ha recibido. El apóstol Juan nos dice en su evangelio “Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree no se pierda, sino que tenga vida eterna.” (Juan 3:16) Es un amor que no se puede medir, difícil de explicar lo suficiente, pero real y verdadero.
