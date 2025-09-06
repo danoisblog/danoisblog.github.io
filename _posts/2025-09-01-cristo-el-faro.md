@@ -3,11 +3,10 @@ layout: post
 title: Cristo el faro
 image: /images/lighthouse1.jpg
 author: José Danois
-categories: reflexiones
+tags: [poema]
 published: true
 ---
 ![Faro](/images/lighthouse1.jpg)
-
 En la oscuridad de la vida errante,  
 cuando las sombras me envuelven sin fin,  
 brilla un Faro en la noche constante,  
