@@ -3,7 +3,7 @@ layout: post
 title: Entender lo que leemos
 image: /images/charlespurgeon.jpg
 author: José Danois
-categories: 
+tags: [extracto, biblia] 
 published: true
 ---
 
