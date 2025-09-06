@@ -3,7 +3,7 @@ layout: post
 title: John Baillie oraba diciendo...
 image: /images/manosunidas.jpg
 author: José Danois
-categories: 
+tags: [extracto]
 published: true
 ---
 
