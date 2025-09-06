@@ -3,11 +3,10 @@ layout: post
 title: Amarte sólo a ti Señor
 image: /images/amarte.png
 author: José Danois
-categories: diario
+tags: [diario]
 published: true
 ---
 ![Amarte Dios](/images/amarte.png)
-
 Recuerdo aquella vieja canción que cantábamos en la Iglesia para los años 80 donde le expresábamos a Dios el deseo de amarlo solo a él. Crea que alguno también podrá recordar. La letra de la canción decía:
 
 > **Amarte solo a ti Señor**
