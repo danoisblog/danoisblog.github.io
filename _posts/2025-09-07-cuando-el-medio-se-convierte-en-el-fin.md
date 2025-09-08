@@ -6,7 +6,7 @@ author: José Danois
 tags: [era digital, deconexión espiritual]
 published: true
 ---
-![libretas](/images/digital.png)
+![Digital](/images/digital.png)
 Vivimos en una época en la que las herramientas tecnológicas han alcanzado un lugar central en nuestra vida diaria. Usamos aplicaciones para comunicarnos, informarnos, entretenernos, e incluso para relacionarnos con Dios. Pero hay una realidad que muchas veces pasamos por alto: estas herramientas, que en un principio fueron creadas para facilitarnos la vida, corren el riesgo de convertirse en nuestros amos, desplazando el propósito por el cual fueron creadas.
 
 # El medio que se vuelve el fin
