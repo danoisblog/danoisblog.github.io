@@ -36,3 +36,7 @@ published: true
 -   Necesitamos que la Palabra de Cristo more en abundancia en nuestros corazones. Colosenses 3:16
     
 -   Necesitamos aferrarnos a la Palabra de Vida. Filipenses 2:16
+  
+-   Necesitamos a Jesús la Palabra Viva. Juan 1:14
+
+  >Entonces la Palabra se hizo hombre y vino a vivir entre nosotros. Estaba lleno de amor inagotable y fidelidad. Y hemos visto su gloria, la gloria del único Hijo del Padre.
