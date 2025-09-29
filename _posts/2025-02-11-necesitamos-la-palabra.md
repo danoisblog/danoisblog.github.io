@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Necesitamos la Palabra
-image: /images/jesús.jpg
+image: /images/jesuspalabra.jpg
 author: José Danois
 tags: [reflexión bíblica] 
 published: true
 ---
-![Jesús](/images/jesús.jpg)
+![Jesús](/images/jesuspalabra.jpg)
 -   Necesitamos la Palabra que nos enseñe y nos instruya en el camino de Cristo. Efesios 4:20-21, Colosenses 2:6-7
     
 -   Necesitamos la Palabra que nos lleve a la madurez y nos permita crecer en la gracia y el conocimiento de Cristo. 1 Corintios 14:20, 2 Pedro 3:18
