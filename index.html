@@ -27,6 +27,20 @@ layout: default
   <a href="{{ post.url | relative_url }}" class="read-more-link">Leer más →</a>
 </div>
 
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+      ← Entradas anteriores
+    </a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+      Entradas más recientes →
+    </a>
+  {% endif %}
+</div>
+
       
     </div>
   </div>
