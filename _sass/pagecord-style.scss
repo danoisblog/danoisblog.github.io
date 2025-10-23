@@ -191,3 +191,26 @@ footer {
   color: #4d4032;
 }
 
+/* === Estilo para los tags === */
+.post-tags {
+  margin-top: 0.6rem;
+}
+
+.post-tags .tag-link {
+  display: inline-block;
+  background: #f1e5d3;
+  color: #7a5639;
+  font-size: 0.85rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  margin-right: 0.4rem;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.post-tags .tag-link:hover {
+  background: #b85c38;
+  color: #fff;
+}
+
+
