@@ -232,26 +232,3 @@ footer {
   transform: translateX(3px);
 }
 
-/* === Estilo del enlace "Leer más" con el color del tema === */
-.read-more {
-  margin-top: 0.8rem;
-  text-align: right;
-}
-
-.read-more-link {
-  display: inline-block;
-  background: #b65a37; /* Color principal del tema */
-  color: #fff;
-  font-size: 0.9rem;
-  padding: 0.35rem 0.9rem;
-  border-radius: 20px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: background 0.25s ease, transform 0.2s ease;
-}
-
-.read-more-link:hover {
-  background: #8a3e24; /* Tono más oscuro al pasar el cursor */
-  transform: translateY(-2px);
-}
-
