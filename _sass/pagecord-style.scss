@@ -57,15 +57,17 @@ nav {
 }
 
 nav a {
-  color: #6f5f57;
-  font-size: 14px;
-  margin: 0 8px;
+  color: #4b3621;        /* Marrón oscuro */
+  font-size: 14px;       /* un poco más grande */
+  margin: 0 10px;
   text-decoration: none;
+  font-weight: 500;      /* más marcado */
 }
 
 nav a:hover {
-  color: #3b6b6f;
+  color: #c59d71;        /* Beige dorado al pasar el cursor */
 }
+
 
 /* 3) Posts: tarjetas delgadas, borde y sombra sutil */
 .posts > .post {
