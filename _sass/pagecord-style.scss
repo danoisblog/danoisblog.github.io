@@ -213,4 +213,22 @@ footer {
   color: #fff;
 }
 
+/* === Estilo para el enlace "Leer más" === */
+.read-more {
+  margin-top: 0.8rem;
+}
+
+.read-more-link {
+  display: inline-block;
+  font-size: 0.95rem;
+  color: #b85c38;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.read-more-link:hover {
+  color: #8a3e24;
+  transform: translateX(3px);
+}
 
