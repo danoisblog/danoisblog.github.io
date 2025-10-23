@@ -16,6 +16,28 @@ layout: default
       </h2>
       <p class="post-meta">{{ post.date | date: "%d %b %Y" }}</p>
       <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <span class="prev">
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
+        &#xE000; Previous
+      </a>
+    </span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <span class="next">
+      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
+        Next &#xE001;
+      </a>
+    </span>
+  {% endif %}
+
     </div>
   </div>
   {% endfor %}
