@@ -28,19 +28,17 @@ layout: default
 </div>
     
  
+<!-- Paginación -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <span class="prev">
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        &#xE000; Previous
-      </a>
-    </span>
+    <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+      ← Entradas anteriores
+    </a>
   {% endif %}
+
   {% if paginator.next_page %}
-    <span class="next">
-      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        Next &#xE001;
-      </a>
-    </span>
+    <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+      Entradas más recientes →
+    </a>
   {% endif %}
 </div>
