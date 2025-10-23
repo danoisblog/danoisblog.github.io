@@ -71,12 +71,73 @@ footer {
 
 /* === Microblog Feed estilo Pagecord === */
 
+/* === Microblog Feed: una tarjeta por fila === */
+
 .microblog-feed {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: 1.5rem;
   margin-top: 2rem;
 }
+
+.post-card {
+  background: #fffaf6;
+  border: 1px solid #f0e2d0;
+  border-radius: 14px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row; /* imagen a la izquierda, texto a la derecha */
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Imagen de la tarjeta */
+.post-image img {
+  width: 160px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Contenido */
+.post-content {
+  flex: 1;
+}
+
+.post-title {
+  margin: 0 0 0.2rem;
+  font-size: 1.15rem;
+}
+
+.post-title a {
+  color: #2b1c10;
+  text-decoration: none;
+}
+
+.post-title a:hover {
+  color: #b85c38;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #8b7660;
+  margin-bottom: 0.4rem;
+}
+
+.post-excerpt {
+  font-size: 0.95rem;
+  color: #4d4032;
+  margin: 0;
+}
+
 
 .post-card {
   background: #fffaf6;
