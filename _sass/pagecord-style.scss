@@ -232,3 +232,24 @@ footer {
   transform: translateX(3px);
 }
 
+/* === Estilo para el enlace "Leer más" alineado a la derecha === */
+.read-more {
+  margin-top: 0.8rem;
+  text-align: right; /* 🔹 Alinea el contenido a la derecha */
+}
+
+.read-more-link {
+  display: inline-block;
+  background: #b85c38;
+  color: #fff;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: background 0.25s ease, transform 0.2s ease;
+}
+
+.read-more-link:hover {
+  background: #8a3e24;
+  transform: translateY(-2px);
+}
