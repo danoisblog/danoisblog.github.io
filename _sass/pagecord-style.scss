@@ -255,35 +255,3 @@ footer {
   transform: translateY(-2px);
 }
 
-/* ---------- Pagination ----------- */
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 3em 0;
-  padding-top: 2em;
-  border-top: 1px solid #e6e0db;
-}
-
-.pagination a {
-  background-color: #fff;
-  border: 1px solid #d8cec6;
-  border-radius: 6px;
-  padding: 0.6em 1em;
-  color: #5c4a3d;
-  font-weight: 500;
-  font-size: 0.95rem;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-}
-
-.pagination a:hover {
-  background-color: #f5eee8;
-  border-color: #c8b8a8;
-  color: #2a1c12;
-  transform: translateY(-2px);
-}
-
-
