@@ -381,21 +381,21 @@ footer {
 
 /* Unificar color de fechas en la página de archivo */
 /* Color similar al de la página de etiquetas */
-.archive .date {
+archive date {
   color: #666;
   font-size: .85rem;
   }
 
 /* Paginación con el mismo color que las fechas */
-.pagination a,
-.pagination span {
+pagination a,
+pagination span {
   color: #666;
   font-size: .85rem;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
-.pagination a:hover {
+pagination a:hover {
   color: #b85c38; /* opcional: color al pasar el mouse */
   text-decoration: underline;
 }
