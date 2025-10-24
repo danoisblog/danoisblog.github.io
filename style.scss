@@ -468,9 +468,9 @@ nav {
     float: left;
     width: 50%;
     a {
-      color: #666;
+      color: $pagination-over-color;
       &:hover, &:focus {
-        color: #666;
+        color: $pagination-over-color;
       }
     }
   }
@@ -480,9 +480,9 @@ nav {
     text-align: right;
     width: 50%;
     a {
-      color: #666;
+      color: $pagination-over-color;
       &:hover, &:focus {
-        color: #666;
+        color: $pagination-over-color;
       }
     }
   }
@@ -494,9 +494,9 @@ nav {
     color: $base-color;
   }
   time {
-    color: #666;
-    font-size: .85rem;
-    font-weight: 
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
     margin-left: 3px;
   }
 }
