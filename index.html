@@ -38,9 +38,10 @@ layout: default
         </ul>
       </div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+     <div class="entry">
+  {{ post.excerpt | replace:"<img","<x-img" }}
+</div>
+
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
     </article>
