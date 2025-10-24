@@ -232,3 +232,94 @@ footer {
   transform: translateX(3px);
 }
 
+/* Layout principal del feed */
+.posts {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Tarjeta */
+.post {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.2rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.post:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+/* Imagen horizontal */
+.post-thumb img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+/* Títulos */
+.post h1 {
+  font-size: 1.6rem;
+  margin: .4rem 0;
+}
+
+.post h1 a {
+  text-decoration: none;
+  color: #222;
+}
+
+.post h1 a:hover {
+  color: #0077cc;
+}
+
+/* Fecha + tags */
+.date {
+  font-size: .85rem;
+  color: #666;
+}
+
+.tag {
+  list-style: none;
+  padding: 0;
+  display: inline-flex;
+  gap: .5rem;
+  margin-left: .7rem;
+}
+
+.tag li a {
+  font-size: .78rem;
+  background: #eef4ff;
+  padding: .2rem .45rem;
+  border-radius: 6px;
+  color: #004f99;
+  text-decoration: none;
+}
+
+.tag li a:hover {
+  background: #d9e8ff;
+}
+
+/* Excerpt */
+.entry {
+  margin-top: .8rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Botón leer más */
+.read-more {
+  display: inline-block;
+  margin-top: .8rem;
+  text-decoration: none;
+  font-size: .85rem;
+  color: #0077cc;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
