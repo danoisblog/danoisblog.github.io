@@ -1,97 +1,95 @@
-/* =======================================
-   1. Configuración del Contenedor Principal
-   ======================================= */
+/* ==========================================================
+   ANULACIÓN DEL HEADER DE MINIMA CON FLEXBOX (CLÁSICO)
+   ========================================================== */
+
+/* * 1. Anulamos el estilo predeterminado del contenedor del header 
+ * y aplicamos Flexbox para el diseño "Logo Izquierda, Menú Derecha".
+ */
 .site-header {
-  /* Habilita Flexbox para alinear elementos en una fila */
-  display: flex;
-  /* Centra verticalmente el logo/texto y el menú */
-  align-items: center;
-  /* Espacio extra en la parte superior e inferior */
-  padding-top: 2rem; 
-  padding-bottom: 2rem;
-  /* Quita el color de fondo por defecto del tema si existe */
-  background-color: transparent; 
+    display: flex; /* Habilita el diseño flexible */
+    align-items: center; /* Centra verticalmente */
+    justify-content: space-between; /* Distribuye espacio entre título y menú */
+    
+    /* Limpiamos la altura que Minima le da por defecto */
+    min-height: 56px; 
+    
+    /* Limpieza de flotantes y bordes del tema base */
+    border-bottom: 1px solid #eee; /* Añade la línea de separación sutil */
+    position: relative;
+    padding: 1.5rem 0; /* Espacio interno para que respire */
 }
 
-/* =======================================
-   2. Alineación de Logo/Título (Izquierda)
-   ======================================= */
+/* * 2. Estilo del Título y Eslogan (Elemento Izquierdo)
+ */
 .site-title {
-  /* Asegura que el título y la descripción se mantengan unidos a la izquierda */
-  flex-shrink: 0; 
-  /* Estilos para el texto del título (puedes personalizar la fuente) */
-  font-size: 1.5rem; /* Opcional: Aumenta ligeramente el tamaño del título */
-  
-  a {
-    display: inline-block;
-    /* Elimina el margen inferior predeterminado del título h1 */
-    margin-bottom: 0; 
-  }
+    /* Desactivamos el flotante predeterminado de Minima */
+    float: none !important; 
+    
+    /* Aseguramos que el logo y el título queden a la izquierda */
+    order: 1; /* Colocamos este elemento el primero */
+    margin-right: auto; /* Empuja el siguiente elemento a la derecha */
+    
+    /* Estilos de fuente */
+    font-size: 1.4rem; /* Ajuste para el nombre */
+    line-height: 1.2;
 }
 
-/* El elemento de la descripción/eslogan del blog: */
-.site-header p {
-  font-size: 0.85rem;
-  opacity: 0.7; /* Suaviza la visibilidad de la descripción */
-  margin-top: -0.25rem; /* Acorta la distancia al título principal */
-  margin-bottom: 0;
-}
-
-/* =======================================
-   3. Alineación del Menú (Derecha)
-   ======================================= */
+/* * 3. Estilo del Menú de Navegación (Elemento Derecho)
+ */
 .site-nav {
-  /* Empuja el menú lo más a la derecha posible */
-  margin-left: auto;
-  /* Asegura que el menú no se envuelva en dos líneas prematuramente */
-  white-space: nowrap; 
-  /* Reduce el espacio entre los enlaces si es necesario */
-  font-size: 0.95rem; 
+    /* Desactivamos el flotante predeterminado de Minima */
+    float: none !important; 
+    
+    /* Colocamos este elemento el segundo */
+    order: 2; 
 }
 
-/* =======================================
-   4. Estilos Adicionales (Opcional)
-   ======================================= */
-
-/* Separador sutil para el header */
-.site-header {
-  border-bottom: 1px solid #eee; /* Línea gris muy clara en la parte inferior */
+/* * 4. Ajuste para la Imagen de Perfil dentro del Título (si la pusiste) 
+ */
+.site-title img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
 }
 
-/* Implementar CTA: Botón Destacado para 'Seguir' */
-.site-nav a[href*="feedio.co"] { /* Selector específico para tu enlace "Seguir" */
-  background-color: #007bff; /* Color de fondo (ej: azul) */
-  color: #fff !important; /* Texto blanco, el !important puede ser necesario para anular el tema Minima */
+/* * 5. Botón de Llamada a la Acción (CTA) más fuerte (Opcional)
+ */
+.site-nav a[href*="feedio.co"] {
+  background-color: #007bff;
+  color: #fff !important;
   padding: 0.5rem 1rem;
   border-radius: 5px;
-  margin-left: 1rem; /* Separa un poco del enlace anterior */
+  margin-left: 1rem; 
   border: 1px solid #007bff;
   transition: background-color 0.3s ease;
   
   &:hover {
-    background-color: #0056b3; /* Un azul un poco más oscuro al pasar el cursor */
+    background-color: #0056b3;
     text-decoration: none;
   }
 }
 
-
 /* === Responsive: Para pantallas pequeñas (móvil) === */
 @media screen and (max-width: 600px) {
   .site-header {
-    /* Mantiene el diseño actual de Minima o apila elementos para móvil */
+    /* En móvil, apilamos los elementos verticalmente (el título arriba del menú) */
     flex-direction: column;
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
 
+  .site-title,
   .site-nav {
-    margin-left: 0;
-    margin-top: 1rem;
-  }
-  
-  .site-title {
-    text-align: center;
+    /* Centramos los elementos */
     margin-right: 0;
+    text-align: center;
+    order: unset;
+  }
+
+  .site-nav {
+    margin-top: 1rem; /* Espacio entre el título y el menú en móvil */
   }
 }
