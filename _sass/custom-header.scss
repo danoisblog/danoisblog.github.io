@@ -1,1 +1,97 @@
+/* =======================================
+   1. Configuración del Contenedor Principal
+   ======================================= */
+.site-header {
+  /* Habilita Flexbox para alinear elementos en una fila */
+  display: flex;
+  /* Centra verticalmente el logo/texto y el menú */
+  align-items: center;
+  /* Espacio extra en la parte superior e inferior */
+  padding-top: 2rem; 
+  padding-bottom: 2rem;
+  /* Quita el color de fondo por defecto del tema si existe */
+  background-color: transparent; 
+}
 
+/* =======================================
+   2. Alineación de Logo/Título (Izquierda)
+   ======================================= */
+.site-title {
+  /* Asegura que el título y la descripción se mantengan unidos a la izquierda */
+  flex-shrink: 0; 
+  /* Estilos para el texto del título (puedes personalizar la fuente) */
+  font-size: 1.5rem; /* Opcional: Aumenta ligeramente el tamaño del título */
+  
+  a {
+    display: inline-block;
+    /* Elimina el margen inferior predeterminado del título h1 */
+    margin-bottom: 0; 
+  }
+}
+
+/* El elemento de la descripción/eslogan del blog: */
+.site-header p {
+  font-size: 0.85rem;
+  opacity: 0.7; /* Suaviza la visibilidad de la descripción */
+  margin-top: -0.25rem; /* Acorta la distancia al título principal */
+  margin-bottom: 0;
+}
+
+/* =======================================
+   3. Alineación del Menú (Derecha)
+   ======================================= */
+.site-nav {
+  /* Empuja el menú lo más a la derecha posible */
+  margin-left: auto;
+  /* Asegura que el menú no se envuelva en dos líneas prematuramente */
+  white-space: nowrap; 
+  /* Reduce el espacio entre los enlaces si es necesario */
+  font-size: 0.95rem; 
+}
+
+/* =======================================
+   4. Estilos Adicionales (Opcional)
+   ======================================= */
+
+/* Separador sutil para el header */
+.site-header {
+  border-bottom: 1px solid #eee; /* Línea gris muy clara en la parte inferior */
+}
+
+/* Implementar CTA: Botón Destacado para 'Seguir' */
+.site-nav a[href*="feedio.co"] { /* Selector específico para tu enlace "Seguir" */
+  background-color: #007bff; /* Color de fondo (ej: azul) */
+  color: #fff !important; /* Texto blanco, el !important puede ser necesario para anular el tema Minima */
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin-left: 1rem; /* Separa un poco del enlace anterior */
+  border: 1px solid #007bff;
+  transition: background-color 0.3s ease;
+  
+  &:hover {
+    background-color: #0056b3; /* Un azul un poco más oscuro al pasar el cursor */
+    text-decoration: none;
+  }
+}
+
+
+/* === Responsive: Para pantallas pequeñas (móvil) === */
+@media screen and (max-width: 600px) {
+  .site-header {
+    /* Mantiene el diseño actual de Minima o apila elementos para móvil */
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .site-nav {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+  
+  .site-title {
+    text-align: center;
+    margin-right: 0;
+  }
+}
