@@ -361,3 +361,13 @@ footer {
 .post .tag {
   margin-left: 0;
 }
+
+footer {
+  background-color: #fdf8f2; /* igual al background de la página */
+  color: #333;               /* texto oscuro, legible */
+  padding: 1rem 0;
+  text-align: center;
+  box-shadow: none;          /* elimina sombras si las hay */
+  border-top: none;          /* elimina borde gris superior */
+}
+
