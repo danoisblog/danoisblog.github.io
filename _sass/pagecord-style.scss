@@ -378,6 +378,22 @@ footer {
     color: #6b5a4a;
 }
 
+#archive-list li time,
+#archive-list li .post-date {
+    color: #666;
+    font-size: .85rem;
+}
 
+.pagination a,
+.pagination a:link,
+.pagination a:visited {
+    color: #666;
+    font-size: .85rem;
+}
+
+.pagination a:hover {
+    color: #b85c38;
+    text-decoration: underline;
+}
 
 
