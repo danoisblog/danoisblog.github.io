@@ -363,12 +363,9 @@ footer {
 }
 
 footer {
-  background-color: #fdf8f2; /* mismo color que el fondo de la página */
-  padding: 1rem 0;
-  color: #333;
-  text-align: center;
-  box-shadow: none;    /* elimina sombras si hay */
-  border-top: none;    /* elimina borde gris si existe */
+  background-color: #fdf8f2 !important;
+  box-shadow: none;
+  border-top: none;
 }
 
 
