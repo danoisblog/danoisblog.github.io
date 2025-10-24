@@ -380,13 +380,13 @@ footer {
 
 /* Unificar color de fechas en la página de archivo */
 .archive .date {
-  color: #8b7660; /* Color similar al de la página de etiquetas */
+  color: #666; /* Color similar al de la página de etiquetas */
 }
 
 /* Paginación con el mismo color que las fechas */
 .pagination a,
 .pagination span {
-  color: #8b7660;
+  color: #666;
   text-decoration: none;
   transition: color 0.2s ease;
 }
