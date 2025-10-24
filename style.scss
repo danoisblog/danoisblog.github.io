@@ -598,7 +598,10 @@ footer {
 
 @import "highlights";
 @import "pagecord-style";
-@import "minima";
-@import "custom-header";
+---
+---
+@import "minima/skins/classic";
+@import "minima/initialize";
+@import "custom-header"; /* ¡Asegúrate de que custom-header se importe al final! */
 
 
