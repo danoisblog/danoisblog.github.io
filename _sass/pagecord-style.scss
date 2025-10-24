@@ -363,6 +363,50 @@ footer {
 }
 
 
+/* === Fondo general de la página === */
+html, body {
+  background-color: #fdf8f2;  /* color de fondo deseado */
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+  color: #3a2c1e;
+  line-height: 1.7;
+  display: flex;
+  flex-direction: column;      /* para que footer quede al final */
+  justify-content: space-between;
+}
+
+/* === Contenedor principal === */
+.wrapper {
+  background-color: #fdf8f2;  /* mismo color que el body */
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* === Footer === */
+footer {
+  background-color: #fdf8f2;  /* fusiona con el fondo */
+  color: #6b5a4a;
+  padding: 1rem;
+  text-align: center;
+  border-top: none;
+  box-shadow: none;
+}
+
+/* Opcional: enlaces dentro del footer */
+footer a {
+  color: #b85c38;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: #8a3e24;
+  text-decoration: underline;
+}
 
 
 
