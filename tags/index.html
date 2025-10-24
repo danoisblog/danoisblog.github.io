@@ -4,41 +4,28 @@ title: Tags
 permalink: /tags/
 ---
 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
+<h1>Etiquetas</h1>
 
-<div class="tags">
-  <ul class="label">
-    {% for tag in site.tags %}
-    <li>
-      <a href="#{{ tag[0] }}">
-        <span>{{ tag[0] }}</span>
-        <span class="count">{{ tag[1] | size }}</span>
-      </a>
-    </li>
+<ul class="tag">
+{% assign tags_list = site.tags | sort %}
+{% for tag in tags_list %}
+  <li>
+    <a href="#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+  </li>
+{% endfor %}
+</ul>
+
+<hr>
+
+{% for tag in tags_list %}
+  <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="date">— {{ post.date | date: "%Y-%m-%d" }}</span>
+      </li>
     {% endfor %}
   </ul>
+{% endfor %}
 
-  {% for tag in site.tags %}
-    <h2 id="{{ tag[0] }}">
-      {{ tag[0] }}
-    </h2>
-    <ul class="tag">
-      {% for post in tag[1] %}
-        {% if post.title != null %}
-          <li>
-            {% if post.link %}
-              <a href="{{ post.link }}">
-            {% else %}
-              <a href="{{ site.baseurl }}{{ post.url }}">
-            {% endif %}
-                {{ post.title }}
-              </a>
-              <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endfor %}
-</div>
