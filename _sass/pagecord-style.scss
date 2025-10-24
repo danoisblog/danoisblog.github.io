@@ -382,3 +382,17 @@ footer {
 .archive .date {
   color: #8b7660; /* Color similar al de la página de etiquetas */
 }
+
+/* Paginación con el mismo color que las fechas */
+.pagination a,
+.pagination span {
+  color: #8b7660;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.pagination a:hover {
+  color: #b85c38; /* opcional: color al pasar el mouse */
+  text-decoration: underline;
+}
+
