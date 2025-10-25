@@ -470,3 +470,68 @@ footer {
   font-size: 0.85em;
 }
 
+/* Menú moderno tipo Pagecord */
+.wrapper-masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fdf8f2; /* Ajusta según tu paleta */
+  padding: 12px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.wrapper-masthead .site-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper-masthead .masthead nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.wrapper-masthead nav a {
+  color: #3a2c1e;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 6px 0;
+  transition: color 0.2s ease;
+}
+
+.wrapper-masthead nav a:hover {
+  color: #b05c2f; /* Hover estilo Pagecord */
+}
+
+.wrapper-masthead .follow-btn, 
+.wrapper-masthead .cta-button {
+  background: #b05c2f;
+  color: #fff !important;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.wrapper-masthead .follow-btn:hover, 
+.wrapper-masthead .cta-button:hover {
+  background: #923e1a;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  .wrapper-masthead {
+    flex-direction: column;
+    align-items: center;
+  }
+  .wrapper-masthead .masthead nav {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    text-align: center;
+  }
+}
