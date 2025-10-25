@@ -2,22 +2,33 @@
   <div class="container">
     <header class="masthead clearfix">
       {% if site.avatar %}
-        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+        <a href="{{ site.baseurl }}/" class="site-avatar">
+          <img src="{{ site.avatar }}" alt="{{ site.name }}">
+        </a>
       {% endif %}
 
       <div class="site-info">
-        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <h1 class="site-name">
+          <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+        </h1>
         <p class="site-description">{{ site.description }}</p>
       </div>
 
-      <nav>
-        {% for nav in site.navigation %}
-        {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-        <a href="{{ nav.url }}">{{ nav.name }}</a>
-        {% else %}
-        <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
-        {% endif %}
-        {% endfor %}
+      <nav class="site-nav">
+        <ul>
+          {% for nav in site.navigation %}
+            {% assign is_external = nav.url contains 'http://' or nav.url contains 'https://' %}
+            <li>
+              <a
+                href="{% if is_external %}{{ nav.url }}{% else %}{{ site.baseurl }}{{ nav.url }}{% endif %}"
+                {% if is_external %}target="_blank" rel="noopener noreferrer"{% endif %}
+              >
+                {{ nav.name }}
+              </a>
+            </li>
+          {% endfor %}
+          <li><a class="cta-button" href="/seguir">Seguir</a></li>
+        </ul>
       </nav>
     </header>
   </div>
