@@ -441,3 +441,40 @@ footer {
   }
 }
 
+/* Estilo de lista de archivo como /tags/, manteniendo bullets */
+ul.archive {
+  padding: 0;
+  margin: 0;
+}
+
+ul.archive li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+ul.archive li a {
+  color: #3a2c1e;
+  text-decoration: none;
+}
+
+ul.archive li a:hover {
+  color: #b05c2f;
+}
+
+ul.archive li time {
+  color: #666; /* Mismo gris que /tags/ */
+  font-size: 0.85em;
+}
+
+/* Estilo para los años */
+ul.archive h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.25em;
+  color: #3a2c1e;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+}
