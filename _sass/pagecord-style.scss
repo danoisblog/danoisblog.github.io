@@ -441,8 +441,9 @@ footer {
   }
 }
 
-/* Estilo de lista de archivo como /tags/, manteniendo bullets */
+/* Estilo de lista de archivo sin bullets */
 ul.archive {
+  list-style: none; /* elimina bullets */
   padding: 0;
   margin: 0;
 }
@@ -452,21 +453,22 @@ ul.archive li {
   justify-content: space-between;
   align-items: center;
   padding: 8px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: none; /* elimina línea debajo de cada entrada */
 }
 
 ul.archive li a {
-  color: #3a2c1e;
+  color: rgb(138, 62, 36); /* color de los enlaces */
   text-decoration: none;
 }
 
 ul.archive li a:hover {
-  color: #b05c2f;
+  color: rgb(180, 92, 47); /* hover más claro */
 }
 
 ul.archive li time {
-  color: #666; /* Mismo gris que /tags/ */
+  color: #666; /* color de las fechas */
   font-size: 0.85em;
+  font-weight: 400; /* peso de la letra */
 }
 
 /* Estilo para los años */
@@ -474,7 +476,8 @@ ul.archive h2 {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   font-size: 1.25em;
-  color: #3a2c1e;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 4px;
+  color: rgb(138, 62, 36); /* color consistente */
+  border-bottom: none; /* elimina línea */
+  padding-bottom: 0;
 }
+
