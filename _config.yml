@@ -28,6 +28,9 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
+  - name: Seguir
+    url: https://www.feedio.co/@danoisblog
+    
   
 
 # Pagination
