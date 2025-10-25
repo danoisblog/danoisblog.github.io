@@ -379,13 +379,14 @@ footer {
 }
 
 
-.wrapper-header {
-  background: 
+.sticky-header {
   position: sticky;
   top: 0;
-  z-index: 2000;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+  z-index: 1000; /* Para que quede por encima del contenido */
+  background: #fdf8f2; /* Cambia según tu color */
+  border-bottom: 1px solid #e2d7cd; /* Opcional */
 }
+
 
 .site-info .site-name a {
   font-size: 1.6em;
